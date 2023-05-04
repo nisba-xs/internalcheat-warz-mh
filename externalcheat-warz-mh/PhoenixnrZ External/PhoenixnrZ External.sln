@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiskoZ External", "DiskoZ External\DiskoZ External.vcxproj", "{709D3BF7-15DE-4638-9412-14CDE7FBB198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709D3BF7-15DE-4638-9412-14CDE7FBB198}.Debug|x86.ActiveCfg = Debug|Win32
+		{709D3BF7-15DE-4638-9412-14CDE7FBB198}.Debug|x86.Build.0 = Debug|Win32
+		{709D3BF7-15DE-4638-9412-14CDE7FBB198}.Release|x86.ActiveCfg = Release|Win32
+		{709D3BF7-15DE-4638-9412-14CDE7FBB198}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FACF868-FEBE-44CB-9E40-BA7FF704C451}
+	EndGlobalSection
+EndGlobal
